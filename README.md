@@ -17,7 +17,7 @@ It should meet the following conditions:
   - +2 for a matching pair of ’G’ bases,
   - +1 for a matching pair of ’T’ bases,
   - -3 for a mismatching pair of bases,
-  - -2 for a gap.<br><br>
+  - -2 for a gap.
 
 - Use the backtracking matrix to determine an optimal alignment.
 
